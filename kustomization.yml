@@ -1,0 +1,7 @@
+resources:
+ - volumes.yml
+ - db-configmap.yml
+ - db-deploy.yml
+ - proxy-sql.yml
+ - wordpress-deploy.yml
+ - hpa.yml
